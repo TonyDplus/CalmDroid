@@ -9,8 +9,8 @@ from sklearn.metrics import hamming_loss, f1_score, accuracy_score, zero_one_los
 from scipy.sparse import issparse
 
 # 设置路径和分类器
-path1 = r'C:\Program Files\Java\jdk-17\bin\java'
-meka_classpath = r'C:\Program Files\Weka-3-8\packages\meka-release-1.9.2\lib\\'
+path1 = r''
+meka_classpath = r''
 meka_classifiers = ['BR']
 weka_classifiers = ['trees.RandomForest']
 

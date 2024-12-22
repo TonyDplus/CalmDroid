@@ -1,0 +1,6 @@
+1. Message: Characteristics related to information transmission (such as SMS, email, and messaging). 
+2. Blackmail: Characteristics related to extortion, threats, or illegal control of devices. 
+3. Keep: Characteristics related to maintaining backend services or continuous access. 
+4. Phone: Behavior related to making phone calls, monitoring phone calls, etc. 
+5. Ad: Characteristics related to advertising push, advertising click, and other behaviors. 
+6. Internet: refers to the characteristics of Internet connection, data transmission, external services and other behaviors.
